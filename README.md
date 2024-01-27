@@ -10,7 +10,7 @@
 - [Coding](#Coding)
 - [Business](#Business)
 - [Prompt](#Prompt)
-
+- [LLM](#LLM)
 
 ## ChatBot
 
@@ -156,4 +156,15 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 - [FlowGPT](https://flowgpt.com/) - Use powerful AI apps on FlowGPT, the largest AI platform, for free! Get instant answers from characters, resume editor, essay generator, coding wizard.
 
 - [Prompt flow](https://github.com/microsoft/promptflow) - Prompt flow is a suite of development tools designed to streamline the end-to-end development cycle of LLM-based AI applications, from ideation, prototyping, testing, evaluation to production deployment and monitoring. It makes prompt engineering much easier and enables you to build LLM apps with production quality.
+
+## LLM
+
+- [GPT-4](https://www.openai.com) -  Generative Pre-trained Transformer 4 (GPT-4) is a multimodal large language model created by OpenAI, and the fourth in its series of GPT foundation models.
+
+- [LLama](https://github.com/facebookresearch/llama) - LLaMA (Large Language Model Meta AI) is a family of autoregressive large language models (LLMs), released by Meta AI starting in February 2023.
+
+- [LLM Visualization](https://bbycroft.net/llm) - A 3D animated visualization of an LLM with a walkthrough.
+
+- [Gemini](https://ai.google.dev/) - Gemini is a new large language model that will work across Google products, including search, ads, and Bard.
+
 
