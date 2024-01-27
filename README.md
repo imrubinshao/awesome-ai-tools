@@ -3,8 +3,10 @@
 
 ## Contents
 - [ChatBot](#ChatBot)
+- [VirtualCharacter](#VirtualCharacter)
+- [SearchEngine](#SearchEngine)
 - [Writing](#Writing)
-- [Image&Design](#Image&Design)
+- [Image](#Image)
 - [Video](#Video)
 - [Audio](#Audio)
 - [Coding](#Coding)
@@ -21,25 +23,44 @@
 
 - [POE](https://poe.com) - Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, ...
 
-- [Character.AI](https://beta.character.ai/) - Character.ai is a neural language model chatbot service that can generate human-like text responses and participate in contextual conversation.
 
 - [ChatDoc](https://chatdoc.com/) - Dive into PDFs like never before with ChatDOC. Let AI summarize long documents, explain complex concepts, and find key information in seconds.
 
-- [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI is a conversational search engine that answers queries using natural language predictive text. Launched in 2022.
 
 - [ChatPDF](https://www.chatpdf.com/) -  Chat with any PDF — Extract information or answer questions from large PDF files like manuals, essays, books. ChatPDF analyzes the PDF and the AI will use relevant paragraphs to give you an answer. 
 
 - [SciSpace](https://typeset.io/) - Chat with PDF and conduct your literature review faster using SciSpace. Discover 200M+ papers or upload your own PDF, highlight text or ask questions.
 
-
-
 - [New Bing](https://www.bing.com/) - Microsoft unveiled a new version of Bing with an AI chat function. The AI chat is powered by the same technology underpinning ChatGPT
 
 - [Google Bard](https://bard.google.com/) - A collaborative AI tool developed by Google to help bring your ideas to life.
 
+- [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI is a conversational search engine that answers queries using natural language predictive text. Launched in 2022.
+
+- [You](https://you.com/) -Conversational and continuously learning, You.com enhances web search, writing, coding, digital art creation, and solving complex problems.
+
+## VirtualCharacter
+
+- [Character.AI](https://beta.character.ai/) - Character.ai is a neural language model chatbot service that can generate human-like text responses and participate in contextual conversation.
+
+- [Janitor AI](https://janitorai.com/) - . This innovative platform offers a wide range of character options, including popular anime-style characters, granting users the freedom to engage in conversations with virtual personas of their choice.
+
+- [SpicyChat AI](https://spicychat.ai/) - SpicyChat.ai is an AI chatbot tool that allows users to create and interact with a wide range of AI characters including NSFW conversations.
+
+
+
 ## Writing
 
 - [Notion AI](https://www.notion.so) - Notion is an all-in-one collaboration platform that seamlessly combines note-taking, task management, and document creation. It offers a versatile workspace where teams and individuals can organize information, collaborate in real-time, and streamline their workflow with a variety of powerful tools.
+
+- [Grammarly](https://www.grammarly.com/) - Free AI Writing Assistance, Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
+
+- [LanguageTool](https://languagetool.org/) - LanguageTool is a multilingual spelling, style, and grammar checker that helps correct or paraphrase texts.
+
+- [Simplified](https://simplified.com/) -  Simplified is the one app to create, collaborate, and scale your marketing. Design, write marketing copy, create videos, collaborate.
+
+- [Klaviyo's SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant) - Klaviyo's SMS Assistant is the first SMS tool to automate copywriting for text campaigns, one of the most time consuming and difficult steps in the creative.
+
 
 - [Copy.ai](https://www.copy.ai) - Copy AI - Write More Engaging Emails. Experience the Full Power of an AI Content Generator。CopyAI Is A Marketing Writer's Dream. Write Optimized Blog Posts In A Fraction of the Time。Edit, Polish, and Publish.
 
@@ -55,11 +76,28 @@
 
 - [GPT Zero](https://gptzero.me/) - Covered by >100 media outlets, GPTZero is the most advanced AI detector for ChatGPT, GPT-4, Bard. Check up to 50000 characters for AI plagiarism in seconds.
 
-## Image&Design
+## Image
 
 - [Stable Diffusion](https://stability.ai/) - Stable Diffusion is a deep learning, text-to-image model released in 2022 based on diffusion techniques. It is considered to be a part of the ongoing AI spring.
 
 - [Midjourney](https://www.midjourney.com/) -Midjourney is a generative artificial intelligence program and service created and hosted by San Francisco–based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called prompts, similar to OpenAI's DALL-E and Stability AI's Stable Diffusion.
+
+- [Leonardo AI](https://leonardo.ai/) - Leonardo AI is a feature-packed generative AI tool for creating AI art. While it is especially renowned for creating image assets for computer games.
+
+- [Yodayo](https://yodayo.com/) - AI-enabled creative platform for anime fandom.
+
+- [Remove](https://www.remove.bg/) - Remove image backgrounds automatically in 5 seconds with just one click. 
+
+- [Fotor](https://www.fotor.com/photo-editor/) - Fotor is a powerful all-in-one ai photo editor app for everyone, including photo editing tools, design maker and photo collage maker.
+
+- [Pixlr](https://pixlr.com/) - Pixlr is a free online photo editor similar to Photoshop. With a diverse range of photo editing tools, Pixlr allows you to swiftly edit and improve your photos.
+
+- [Cutout.Pro](https://www.cutout.pro/) -All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design.
+
+- [ZMO.AI](https://www.zmo.ai/) - A full suite of Powerful AI Image Generation Tools.
+
+- [Upscale media](https://www.upscale.media/) - Upscale.media is a free & AI-based image enhancing tool that lets you increase the resolutions of low-quality images within seconds. 
+
 
 - [ClipDrop](https://clipdrop.co/) - ClipDrop is an AI-powered suite of visual editing and creation tools, powered by Stability AI.
 
@@ -86,7 +124,16 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 ## Video
 
+- [Loom](https://www.loom.com/) - A free online screen recording tool with advanced video editing and video storage.
+
 - [Runway](https://runwayml.com/) - Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
+
+- [Pika.art](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
+
+- [VEED.IO](https://www.veed.io/) - Free AI video editor with text to video, avatars, auto-subtitles, voice translations and more.
+
+- [Media.io](https://www.media.io/) - Online Video, Audio, Image AI Tools.
+
 
 - [Wonder Studio](https://wonderdynamics.com/) - Wonder Studio is an AI tool that automatically animates, lights, and composes CG characters into a live-action scene.
 
@@ -111,6 +158,11 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 
 ## Audio
+
+- [Suno AI](https://www.suno.ai/) - The AI music creation tool Suno can generate custom songs based on text prompts in mere seconds.
+
+- [Voicemod](https://www.voicemod.net/text-to-song/) - Free Text to song and AI music generator by Voicemod. Songify any text with AI.
+
 
 - [Otter](https://otter.ai) - Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting. 
 
