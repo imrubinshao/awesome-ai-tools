@@ -135,6 +135,9 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Cursor](https://cursor.sh/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 
+- [LangChain](https://github.com/langchain-ai/langchain) -  LangChain is a framework for developing applications powered by language models.
+
+
 
 ## Business
 - [Glean](https://www.glean.com/) - Glean is the enterprise search and knowledge discovery solution for modern teams. Search all company apps, find what you need.
