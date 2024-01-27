@@ -111,6 +111,9 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Artflow](https://app.artflow.ai/) - Create images, for Free! Create unique worlds, characters and scenes by simply typing in what image you want to generate.
 
+## Voice
+
+- [Otter](https://otter.ai) - Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting 
 
 
 ## Prompt
