@@ -1,2 +1,123 @@
-# awesome-ai-tools
-🚀 Curated collection of powerful AI tools to supercharge your projects. Contribute and discover top-notch resources for mastering the world of artificial intelligence! 🤖
+# Awesome AI Tools
+🚀 Collection of powerful AI tools 
+
+## Contents
+- [ChatBot](#ChatBot)
+- [Writing](#Writing)
+- [Image](#Image)
+- [Video](#Video)
+- [Voice](#Voice)
+- [Develop](#Develop)
+- [Business](#Business)
+- [Design](#Design)
+- [Prompt](#Prompt)
+- [Education](#Education)
+- [Life](#Life)
+- [LLM](#LLM)
+
+## ChatBot
+
+- [ChatGPT](https://chat.openai.com) - A platform by OpenAI that provides an interactive environment for users to engage with advanced language models. Users can have dynamic conversations, ask questions, and explore the capabilities of OpenAI's language models in real-time.
+
+- [Claude](https://claude.ai) - An AI assistant from Anthropic.
+
+- [POE](https://poe.com) - Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, ...
+
+- [Character.AI]() - Character.ai is a neural language model chatbot service that can generate human-like text responses and participate in contextual conversation.
+
+- [ChatDoc](ChatGPT Shortcut) - Dive into PDFs like never before with ChatDOC. Let AI summarize long documents, explain complex concepts, and find key information in seconds.
+
+- [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI is a conversational search engine that answers queries using natural language predictive text. Launched in 2022.
+
+- [ChatPDF](https://www.chatpdf.com/) -  Chat with any PDF — Extract information or answer questions from large PDF files like manuals, essays, books. ChatPDF analyzes the PDF and the AI will use relevant paragraphs to give you an answer. 
+
+- [SciSpace](https://typeset.io/) - Chat with PDF and conduct your literature review faster using SciSpace. Discover 200M+ papers or upload your own PDF, highlight text or ask questions.
+
+
+
+- [New Bing](https://www.bing.com/) - Microsoft unveiled a new version of Bing with an AI chat function. The AI chat is powered by the same technology underpinning ChatGPT
+
+- [Google Bard](https://bard.google.com/) - A collaborative AI tool developed by Google to help bring your ideas to life.
+
+## Writing
+
+- [Notion AI](https://www.notion.so) - Notion is an all-in-one collaboration platform that seamlessly combines note-taking, task management, and document creation. It offers a versatile workspace where teams and individuals can organize information, collaborate in real-time, and streamline their workflow with a variety of powerful tools.
+
+- [Copy.ai](https://www.copy.ai) - Copy AI - Write More Engaging Emails. Experience the Full Power of an AI Content Generator。CopyAI Is A Marketing Writer's Dream. Write Optimized Blog Posts In A Fraction of the Time。Edit, Polish, and Publish.
+
+- [Rytr](https://www.rytr.me) - An AI Writing Assistant That Helps You Create High-quality Content, In Just A Few Seconds.
+
+- [Jasper](https://www.jasper.ai) - Jasper AI is an artificial intelligence (AI) platform that allows users to instantly produce human-like copy for blog posts, social media.
+
+- [Writesonic](https://writesonic.com/) - Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free.
+
+- [Storybooks](https://www.storybooks.app/) - Easily create personalized stories that build literacy, creativity, and social-emotional intelligence. Make storytime fun, magical, and enriching.
+
+- [DeepL](https://www.deepl.com/) - Translate texts & full document files instantly. Accurate translations for individuals and Teams.
+
+- [GPT Zero](https://gptzero.me/) - Covered by >100 media outlets, GPTZero is the most advanced AI detector for ChatGPT, GPT-4, Bard. Check up to 50000 characters for AI plagiarism in seconds.
+
+## Image
+
+- [Stable Diffusion](https://stability.ai/) - Stable Diffusion is a deep learning, text-to-image model released in 2022 based on diffusion techniques. It is considered to be a part of the ongoing AI spring.
+
+- [Midjourney](https://www.midjourney.com/) -Midjourney is a generative artificial intelligence program and service created and hosted by San Francisco–based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called prompts, similar to OpenAI's DALL-E and Stability AI's Stable Diffusion.
+
+- [ClipDrop](https://clipdrop.co/) - ClipDrop is an AI-powered suite of visual editing and creation tools, powered by Stability AI.
+
+- [Bing Image Creator](https://www.bing.com/images/create) - 
+Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelligence technology.
+
+- [Looka](https://looka.com/) - Design a Logo, make a website, and create a Brand Identity you'll love with the power of Artificial Intelligence. 100% free to use.
+
+- [DALL·E2](https://openai.com/dall-e-2) - DALL·E, DALL·E 2, and DALL·E 3 are text-to-image models developed by OpenAI using deep learning methodologies to generate digital images from natural language descriptions, called "prompts".
+
+- [Blockade Labs](https://www.blockadelabs.com/) - Explore limitless AI-generated 3D worlds with Blockade Labs' Skybox. Immerse yourself in new landscapes and environments.
+
+- [CSM AI](https://www.csm.ai/) - Common Sense Machines (CSM) is building an AI platform that lets users generate game-engine ready 3D assets from single images and videos.
+
+- [Visual Electric](https://visualelectric.com/) - The first AI image generator designed for creatives. Bring your ideas to life with our infinite canvas and intuitive interface.
+
+- [PixAI](https://pixai.art/) - Generate high-quality anime AI art effortlessly. Explore AI tools, character templates, and more.
+
+- [Hotpot](https://hotpot.ai/) - Create stunning art, photos, illustrations with AI. Free. No signup. Millions of happy users. Browse Resources. Read Blog. Chat Support Available. Highlights: Tips & Custom Styles Available, AI Art & Image Generator Guide Available.
+
+- [Ideogram AI](https://ideogram.ai/) - Ideogram AI is a Free AI Text-to-image generator Just launched in August 2023.
+
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - Fooocus is an image generating software (based on Gradio).Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs:
+
+## Video
+
+- [Runway](https://runwayml.com/) - Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
+
+- [Wonder Studio](https://wonderdynamics.com/) - Wonder Studio is an AI tool that automatically animates, lights, and composes CG characters into a live-action scene.
+
+- [Rask AI](https://www.rask.ai/) - AI platform for marketing teams, content creators, educators, and anyone who seeks growth. Rask AI: Adapt your content for any platform. Create short videos from long-form content. 130+ languages。Localize, Test, Automate. Translate & Voiceover. Lip-sync feature.
+
+- [Synthesia](https://www.synthesia.io/) - Synthesia is an AI Video Creation Platform. The AI Video Generator enables everyone to create professional videos without mics, cameras, actors or studios.
+- [Luma AI](https://lumalabs.ai/) - Luma AI is a cutting-edge artificial intelligence software enabling the creation of realistic 3D images, videos, and game assets using an iPhone or through the web.
+
+- [D-ID ](https://www.d-id.com/) - D-ID’s Creative Reality™ studio AI video generator mobile app lets you create AI videos of digital people from a single image quickly, and easily from your phone. 
+
+- [HeyGen](https://www.heygen.com/) - HeyGen is an innovative video platform that harnesses the power of generative AI to streamline your video creation process.
+
+- [Opus Clip](https://www.opus.pro/) - Opus Clip turns long videos into high-quality viral clips for you to share on TikTok, YouTube Shorts, and Reels to increase social media reach.
+
+- [Kapwing](https://www.kapwing.com/ai) - Create videos with Kapwing's cutting-edge AI tools. Generate videos from text and automatically edit video content—all from your browser.
+
+- [Invideo](https://invideo.io/) - Make videos easily by giving a prompt to Invideo.
+
+- [Capcut](https://www.capcut.com/) - CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.
+
+- [Artflow](https://app.artflow.ai/) - Create images, for Free! Create unique worlds, characters and scenes by simply typing in what image you want to generate.
+
+
+
+## Prompt
+
+- [Learning Prompt](https://learningprompt.wiki/) - Free Prompt Engineering and Midjourney tutorial.
+
+- [FlowGPT](https://flowgpt.com/) - Use powerful AI apps on FlowGPT, the largest AI platform, for free! Get instant answers from characters, resume editor, essay generator, coding wizard.
+
+- [Prompt flow](https://github.com/microsoft/promptflow) - Prompt flow is a suite of development tools designed to streamline the end-to-end development cycle of LLM-based AI applications, from ideation, prototyping, testing, evaluation to production deployment and monitoring. It makes prompt engineering much easier and enables you to build LLM apps with production quality.
+
