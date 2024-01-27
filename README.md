@@ -115,6 +115,7 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Otter](https://otter.ai) - Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting 
 
+- [ElevenLabs](https://elevenlabs.io/) - ElevenLabs is a software company that specializes in developing natural-sounding speech synthesis and text-to-speech software, using artificial intelligence and deep learning.
 
 ## Prompt
 
