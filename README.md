@@ -11,6 +11,7 @@
 - [Audio](#Audio)
 - [Coding](#Coding)
 - [Business](#Business)
+- [Marketing](#Marketing)
 - [Prompt](#Prompt)
 - [Personal](#Personal)
 - [LLM](#LLM)
@@ -76,11 +77,24 @@
 
 - [GPT Zero](https://gptzero.me/) - Covered by >100 media outlets, GPTZero is the most advanced AI detector for ChatGPT, GPT-4, Bard. Check up to 50000 characters for AI plagiarism in seconds.
 
+- [NovelAI](https://novelai.net/) - NovelAI is a monthly subscription service for AI-assisted authorship, storytelling, virtual companionship, or simply a LLM powered sandbox for your imagination.
+
+- [QuillBot's Paraphraser](https://quillbot.com/) - QuillBot's Paraphraser helps you write better, faster, and smarter.
+
+- [StealthWriter](https://stealthwriter.ai/) - Stealthwriter rewrites AI content into human-like text. Guaranteed plagiarism-free & undetectable by AI detectors.
+
+
 ## Image
 
 - [Stable Diffusion](https://stability.ai/) - Stable Diffusion is a deep learning, text-to-image model released in 2022 based on diffusion techniques. It is considered to be a part of the ongoing AI spring.
 
 - [Midjourney](https://www.midjourney.com/) -Midjourney is a generative artificial intelligence program and service created and hosted by San Francisco–based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called prompts, similar to OpenAI's DALL-E and Stability AI's Stable Diffusion.
+
+- [Canva Text To Image](https://www.canva.com/) - Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
+
+- [CF Spark](https://www.creativefabrica.com/spark/) - The CF Spark family offers a suite of AI tools that will allow you to ignite your creative spark in just a few clicks.
+
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's latest generative AI tool.
 
 - [Leonardo AI](https://leonardo.ai/) - Leonardo AI is a feature-packed generative AI tool for creating AI art. While it is especially renowned for creating image assets for computer games.
 
@@ -161,7 +175,7 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Suno AI](https://www.suno.ai/) - The AI music creation tool Suno can generate custom songs based on text prompts in mere seconds.
 
-- [Voicemod](https://www.voicemod.net/text-to-song/) - Free Text to song and AI music generator by Voicemod. Songify any text with AI.
+- [Voicemod Text To Song](https://www.voicemod.net/text-to-song/) - Free Text to song and AI music generator by Voicemod. Songify any text with AI.
 
 
 - [Otter](https://otter.ai) - Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting. 
@@ -222,19 +236,49 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
 
+- [Prezi](https://prezi.com/) - The presentation software that uses motion, zoom, and spatial relationships to bring your ideas to life and make you a great presenter.
+
 - [Tome](https://tome.app/) - Make Polished & Professional AI Presentations .
 
 - [Casetext](https://casetext.com/) - Casetext is an award-winning legal AI company developing cutting-edge tech for 10+ years—including CoCounsel, the first AI legal assistant.
 
 - [Labs.Google](https://labs.google.com) - Labs.Google is Google's home for the latest AI tools, technology and discourse.
 
+- [Salesforce Einstein AI](https://www.salesforce.com/products/einstein-ai-solutions/) - Einstein GPT is a powerful AI tool that combines public and private AI models with CRM data. 
+
+- [Fin AI bot](https://www.intercom.com/fin) - The Fin AI tool is a breakthrough chatbot designed for customer service.
+
+- [Notta](https://www.notta.ai/) - Notta can transcribe your audio or video files, online meetings, or face-to-face sales meetings in no time. Import your audio or video files to transcribe.
+
+
+
+## Marketing
+
+- [Beacons AI](https://beacons.ai/) - Beacons.ai is an AI-powered link aggregator, link in bio, and social media marketing tool .
+
+- [Systeme](https://systeme.io/) - Systeme.io is an all-in-one solution to build sales funnels, webinars & memberships, and much more.
+
+- [Writesonic](https://writesonic.com/) - Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free.
+
+- [vidIQ](https://vidiq.com/) - vidIQ helps you acquire the tools and knowledge needed to grow your audience faster on YouTube and beyond.
+
+- [Mailchimp](https://mailchimp.com/) - Mailchimp is a marketing automation and email marketing platform. 
+
+- [Superhuman](https://superhuman.com/) - Blazingly fast email for teams and individuals.
+
+
 ## Prompt
 
-- [Learning Prompt](https://learningprompt.wiki/) - Free Prompt Engineering and Midjourney tutorial.
+- [Lexica](https://lexica.art/) - Lexica is The Stable Diffusion prompt search engine.
 
 - [FlowGPT](https://flowgpt.com/) - Use powerful AI apps on FlowGPT, the largest AI platform, for free! Get instant answers from characters, resume editor, essay generator, coding wizard.
 
+- [PromptHero](https://prompthero.com/) -  Search AI prompts for models like Stable Diffusion, ChatGPT, Midjourney.
+
+- [Learning Prompt](https://learningprompt.wiki/) - Free Prompt Engineering and Midjourney tutorial.
+
 - [Prompt flow](https://github.com/microsoft/promptflow) - Prompt flow is a suite of development tools designed to streamline the end-to-end development cycle of LLM-based AI applications, from ideation, prototyping, testing, evaluation to production deployment and monitoring. It makes prompt engineering much easier and enables you to build LLM apps with production quality.
+
 
 ## Personal
 
@@ -254,6 +298,9 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Wanderlog](https://wanderlog.com/) - Use Wanderlog to share your itinerary with tripmates, friends, and families and collaborate in real time
 
+- [Eightify](https://eightify.app/) - Eightify is a tool that uses YouTube AI technology to summarize videos in seconds.
+
+- [summarize.tech](https://www.summarize.tech/) - AI-powered video summaries. Get a summary of any long YouTube video, like a lecture, live event or a government meeting. 
 
 ## LLM
 
@@ -265,4 +312,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Gemini](https://ai.google.dev/) - Gemini is a new large language model that will work across Google products, including search, ads, and Bard.
 
+- [Civitai](https://civitai.com/) - Explore thousands of high-quality Stable Diffusion models, share your AI-generated art, and engage with a vibrant community of creators.
 
+- [Hugging Face](https://huggingface.co/) - The AI community building the future. · Models · Spaces · Datasets · The Home of Machine Learning · Accelerate your ML.
+
+- [Replicate](https://replicate.com/) - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
