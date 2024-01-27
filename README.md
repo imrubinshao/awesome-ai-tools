@@ -21,9 +21,9 @@
 
 - [POE](https://poe.com) - Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, ...
 
-- [Character.AI]() - Character.ai is a neural language model chatbot service that can generate human-like text responses and participate in contextual conversation.
+- [Character.AI](https://beta.character.ai/) - Character.ai is a neural language model chatbot service that can generate human-like text responses and participate in contextual conversation.
 
-- [ChatDoc](ChatGPT Shortcut) - Dive into PDFs like never before with ChatDOC. Let AI summarize long documents, explain complex concepts, and find key information in seconds.
+- [ChatDoc](https://chatdoc.com/) - Dive into PDFs like never before with ChatDOC. Let AI summarize long documents, explain complex concepts, and find key information in seconds.
 
 - [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI is a conversational search engine that answers queries using natural language predictive text. Launched in 2022.
 
@@ -201,7 +201,6 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 - [Socratic](https://socratic.org/) - Built for learning. With help from teachers, Socratic brings you visual explanations of important concepts in each subject. 
 
 - [Wanderlog](https://wanderlog.com/) - Use Wanderlog to share your itinerary with tripmates, friends, and families and collaborate in real time
-
 
 
 ## LLM
