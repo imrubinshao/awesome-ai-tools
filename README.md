@@ -4,10 +4,10 @@
 ## Contents
 - [ChatBot](#ChatBot)
 - [Writing](#Writing)
-- [Image](#Image)
+- [Image&Design](#Image&Design)
 - [Video](#Video)
-- [Voice](#Voice)
-- [Develop](#Develop)
+- [Audio](#Audio)
+- [Coding](#Coding)
 - [Business](#Business)
 - [Design](#Design)
 - [Prompt](#Prompt)
@@ -57,7 +57,7 @@
 
 - [GPT Zero](https://gptzero.me/) - Covered by >100 media outlets, GPTZero is the most advanced AI detector for ChatGPT, GPT-4, Bard. Check up to 50000 characters for AI plagiarism in seconds.
 
-## Image
+## Image&Design
 
 - [Stable Diffusion](https://stability.ai/) - Stable Diffusion is a deep learning, text-to-image model released in 2022 based on diffusion techniques. It is considered to be a part of the ongoing AI spring.
 
@@ -111,11 +111,34 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Artflow](https://app.artflow.ai/) - Create images, for Free! Create unique worlds, characters and scenes by simply typing in what image you want to generate.
 
-## Voice
 
-- [Otter](https://otter.ai) - Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting 
+## Audio
 
-- [ElevenLabs](https://elevenlabs.io/) - ElevenLabs is a software company that specializes in developing natural-sounding speech synthesis and text-to-speech software, using artificial intelligence and deep learning.
+- [Otter](https://otter.ai) - Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting. 
+
+- [Murf AI](https://murf.ai/) - AI Voice Generator: Versatile Text to Speech Software.
+
+- [PlayHT](https://play.ht/) - PlayHT is an AI Voice Generator with 600+ AI voices that creates ultra realistic Text to Speech voiceovers.
+
+- [Dexa AI](https://dexa.ai) - Explore, search, and ask questions using AI bots powered by your favorite podcasts.
+
+- [Vocal Remover](https://vocalremover.org/) - Split music into separated vocals and instrumental track. Perfect for making karaoke backing tracks or accapella extractor.
+
+- [Songtell](https://www.songtell.com/) - Unlock the hidden depths of your favorite songs with the help of AI. Discover the true meaning behind the lyrics you love with Songtell.
+
+- [Speechify](https://speechify.com/) - Speechify is a mobile, chrome extension and desktop app that reads text aloud using a computer generated text to speech voice.
+
+- [Adobe Podcast](https://podcast.adobe.com/) - AI-powered audio tools that elevate your voice. Create high-quality podcasts and voiceovers that sound professional with Adobe Podcast.
+
+## Coding
+
+- [GitHub Copilot](https://github.com/features/copilot) - The world’s most widely adopted AI developer tool. 
+
+- [Codeium](https://codeium.com/) - Codeium offers best in class AI code completion, search, and chat — all for free. It supports over 70+ languages and integrates with your favorite IDEs.
+
+- [Cursor](https://cursor.sh/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
+
+
 
 ## Prompt
 
