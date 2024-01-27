@@ -9,11 +9,8 @@
 - [Audio](#Audio)
 - [Coding](#Coding)
 - [Business](#Business)
-- [Design](#Design)
 - [Prompt](#Prompt)
-- [Education](#Education)
-- [Life](#Life)
-- [LLM](#LLM)
+
 
 ## ChatBot
 
@@ -132,13 +129,25 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 ## Coding
 
-- [GitHub Copilot](https://github.com/features/copilot) - The world’s most widely adopted AI developer tool. 
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot is a cloud-based artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Visual Studio, Neovim, and JetBrains integrated development environments (IDEs) by autocompleting code.
 
 - [Codeium](https://codeium.com/) - Codeium offers best in class AI code completion, search, and chat — all for free. It supports over 70+ languages and integrates with your favorite IDEs.
 
 - [Cursor](https://cursor.sh/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 
 
+## Business
+- [Glean](https://www.glean.com/) - Glean is the enterprise search and knowledge discovery solution for modern teams. Search all company apps, find what you need.
+
+- [Akkio](https://www.akkio.com/) - Experience the power of Generative BI. Akkio is an easy-to-use, scalable, and affordable AI platform for real-time decision making. 
+
+- [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
+
+- [Tome](https://tome.app/) - Make Polished & Professional AI Presentations .
+
+- [Casetext](https://casetext.com/) - Casetext is an award-winning legal AI company developing cutting-edge tech for 10+ years—including CoCounsel, the first AI legal assistant.
+
+- [Labs.Google](https://labs.google.com) - Labs.Google is Google's home for the latest AI tools, technology and discourse.
 
 ## Prompt
 
