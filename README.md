@@ -1,6 +1,8 @@
 # Awesome AI Tools
 🚀 Collection of powerful AI tools 
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ## Contents
 - [ChatBot](#ChatBot)
 - [VirtualCharacter](#VirtualCharacter)
