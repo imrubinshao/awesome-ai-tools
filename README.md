@@ -10,6 +10,7 @@
 - [Coding](#Coding)
 - [Business](#Business)
 - [Prompt](#Prompt)
+- [Personal](#Personal)
 - [LLM](#LLM)
 
 ## ChatBot
@@ -137,6 +138,29 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [LangChain](https://github.com/langchain-ai/langchain) -  LangChain is a framework for developing applications powered by language models.
 
+- [Replit AI](https://replit.com/ai) -  An AI-powered programming assistant that can make suggestions to make coding easier.
+
+- [Dify](https://dify.ai/) - The next-gen development platform - Easily build and operate generative AI applications. Create Assistants API and GPTs based on any LLMs.
+
+- [Imagica AI](https://www.imagica.ai/) - Imagica is the new operating system for the AI age that enables computers to be an extension of our minds, so that we can all create at the speed of thought.
+
+- [Framer](https://www.framer.com/) - Framer is a great platform for startups that need to create a professional-looking website。A powerful, AI-driven website builder with a user-friendly interface.
+
+- [Voiceflow](https://www.voiceflow.com/) - Voiceflow is the collaborative AI agent building platform for teams to design, develop, and launch chat and voice assistants.
+
+- [Warp](https://www.warp.dev/) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. 
+
+- [v0.dev](https://v0.dev/) - v0 is a generative user interface system by Vercel powered by AI. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects.
+
+- [Kaggle](https://www.kaggle.com/) - Kaggle is a data science competition platform and online community of data scientists and machine learning practitioners under Google LLC.
+
+- [Zapier](https://zapier.com/) - Zapier provides workflows that allow different web applications to be used in the same workflow. Their products focus on automating recurring tasks, such as lead management. Users can set up "rules" that set up the flow of data between different tools and services.
+
+- [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) - Visual Studio IntelliCode is an experimental set of AI-assisted development capabilities for next-generation developer productivity.
+
+- [Wix](https://www.wix.com/) - Website Builder Software. Design and build your own high-quality websites.
+
+- [Activepieces](https://github.com/activepieces/activepieces) - An open source replacement for Zapier.
 
 
 ## Business
@@ -159,6 +183,26 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 - [FlowGPT](https://flowgpt.com/) - Use powerful AI apps on FlowGPT, the largest AI platform, for free! Get instant answers from characters, resume editor, essay generator, coding wizard.
 
 - [Prompt flow](https://github.com/microsoft/promptflow) - Prompt flow is a suite of development tools designed to streamline the end-to-end development cycle of LLM-based AI applications, from ideation, prototyping, testing, evaluation to production deployment and monitoring. It makes prompt engineering much easier and enables you to build LLM apps with production quality.
+
+## Personal
+
+- [Rewind AI](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
+
+- [Xmind AI](https://xmind.ai/) - Xmind AI is full-featured, cloud-based, and built for team collaboration. Anytime anywhere anyone in your team can call AI copilot for inspirational ideas.
+
+- [Mem AI](https://mem.ai/) - The AI Notes App That Keeps You Organized.
+
+- [Wolfram|Alpha](https://www.wolframalpha.com/) - WolframAlpha is an answer engine developed by Wolfram Research. It answers factual queries by computing answers from externally sourced data.
+
+- [ixigo Plan](https://www.ixigo.com/plan) - PLAN your dream trip in seconds ⏱️ Your dreamed trip by AI. 
+
+- [Semantic Scholar](https://www.semanticscholar.org/) - Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research.
+
+- [Socratic](https://socratic.org/) - Built for learning. With help from teachers, Socratic brings you visual explanations of important concepts in each subject. 
+
+- [Wanderlog](https://wanderlog.com/) - Use Wanderlog to share your itinerary with tripmates, friends, and families and collaborate in real time
+
+
 
 ## LLM
 
