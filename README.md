@@ -50,6 +50,8 @@
 
 - [SpicyChat AI](https://spicychat.ai/) - SpicyChat.ai is an AI chatbot tool that allows users to create and interact with a wide range of AI characters including NSFW conversations.
 
+- [NSFWBots AI](https://www.nsfwbots.com/) - Curated selection of top chatbot characters with a focus on smaller independent developers
+
 
 
 ## Writing
