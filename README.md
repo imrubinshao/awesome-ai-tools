@@ -172,6 +172,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Artflow](https://app.artflow.ai/) - Create images, for Free! Create unique worlds, characters and scenes by simply typing in what image you want to generate.
 
+- [Trupeer](https://www.trupeer.ai/) - Trupeer is an AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
+
 
 ## Audio
 
