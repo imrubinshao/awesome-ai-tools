@@ -214,6 +214,7 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Framer](https://www.framer.com/) - Framer is a great platform for startups that need to create a professional-looking website。A powerful, AI-driven website builder with a user-friendly interface.
 
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin with 9 SEO and Google Ads skills that connects Search Console, PageSpeed Insights, and Google Ads for shipping search-growth fixes from the terminal.
 - [Voiceflow](https://www.voiceflow.com/) - Voiceflow is the collaborative AI agent building platform for teams to design, develop, and launch chat and voice assistants.
 
 - [Warp](https://www.warp.dev/) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. 
