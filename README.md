@@ -190,6 +190,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Vocal Remover](https://vocalremover.org/) - Split music into separated vocals and instrumental track. Perfect for making karaoke backing tracks or accapella extractor.
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI.
+
 - [Songtell](https://www.songtell.com/) - Unlock the hidden depths of your favorite songs with the help of AI. Discover the true meaning behind the lyrics you love with Songtell.
 
 - [Speechify](https://speechify.com/) - Speechify is a mobile, chrome extension and desktop app that reads text aloud using a computer generated text to speech voice.
