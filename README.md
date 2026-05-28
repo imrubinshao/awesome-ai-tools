@@ -126,6 +126,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Blockade Labs](https://www.blockadelabs.com/) - Explore limitless AI-generated 3D worlds with Blockade Labs' Skybox. Immerse yourself in new landscapes and environments.
 
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design tool for generating garden and outdoor space concepts from photos.
+
 - [CSM AI](https://www.csm.ai/) - Common Sense Machines (CSM) is building an AI platform that lets users generate game-engine ready 3D assets from single images and videos.
 
 - [Visual Electric](https://visualelectric.com/) - The first AI image generator designed for creatives. Bring your ideas to life with our infinite canvas and intuitive interface.
