@@ -268,6 +268,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [Superhuman](https://superhuman.com/) - Blazingly fast email for teams and individuals.
 
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP.
+
 
 ## Prompt
 
