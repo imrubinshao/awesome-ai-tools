@@ -148,6 +148,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [VEED.IO](https://www.veed.io/) - Free AI video editor with text to video, avatars, auto-subtitles, voice translations and more.
 
+- [videos.social](https://videos.social/?utm_source=imrubinshao-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turns blogs, PDFs, and prompts into editable faceless videos.
+
 - [Media.io](https://www.media.io/) - Online Video, Audio, Image AI Tools.
 
 
