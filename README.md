@@ -231,6 +231,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 - [Activepieces](https://github.com/activepieces/activepieces) - An open source replacement for Zapier.
 
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web, Android, and iOS testing with execution memory, UI recovery, and CLI/MCP access; source-available (FSL-1.1-ALv2).
+
 ## Business
 - [Glean](https://www.glean.com/) - Glean is the enterprise search and knowledge discovery solution for modern teams. Search all company apps, find what you need.
 
