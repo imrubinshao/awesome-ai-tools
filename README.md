@@ -73,6 +73,8 @@
 
 - [Writesonic](https://writesonic.com/) - Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free.
 
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker and AI resume builder with a live candidate leaderboard; State of ATS 2026 report included.
+
 - [Storybooks](https://www.storybooks.app/) - Easily create personalized stories that build literacy, creativity, and social-emotional intelligence. Make storytime fun, magical, and enriching.
 
 - [DeepL](https://www.deepl.com/) - Translate texts & full document files instantly. Accurate translations for individuals and Teams.
