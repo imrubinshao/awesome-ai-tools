@@ -171,6 +171,7 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 - [Capcut](https://www.capcut.com/) - CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.
 
 - [Artflow](https://app.artflow.ai/) - Create images, for Free! Create unique worlds, characters and scenes by simply typing in what image you want to generate.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and assembly from editable plan.json timelines.
 
 
 ## Audio
