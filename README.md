@@ -304,6 +304,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 - [summarize.tech](https://www.summarize.tech/) - AI-powered video summaries. Get a summary of any long YouTube video, like a lecture, live event or a government meeting. 
 
+- [Orkas](https://orkas.ai/?source=gh_rubin) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 ## LLM
 
 - [GPT-4](https://www.openai.com) -  Generative Pre-trained Transformer 4 (GPT-4) is a multimodal large language model created by OpenAI, and the fourth in its series of GPT foundation models.
