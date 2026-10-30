@@ -10,6 +10,7 @@
 - [Writing](#Writing)
 - [Image](#Image)
 - [Video](#Video)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [Audio](#Audio)
 - [Coding](#Coding)
 - [Business](#Business)
