@@ -284,6 +284,8 @@ Microsoft Bing Image Creator is a tool powered by DALL·E, an artificial intelli
 
 ## Personal
 
+- [Novastart](https://novastart.com/) - Infinite-canvas whiteboard OS combining apps, shared canvases, and AI agents for personal and collaborative work. Freemium.
+
 - [Rewind AI](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 
 - [Xmind AI](https://xmind.ai/) - Xmind AI is full-featured, cloud-based, and built for team collaboration. Anytime anywhere anyone in your team can call AI copilot for inspirational ideas.
